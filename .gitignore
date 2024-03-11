@@ -30,6 +30,10 @@ yarn-error.*
 
 # local env files
 .env
+%ProgramData%/
+.idea/
+.vscode/
+WorldNow.iml
 
 # typescript
 *.tsbuildinfo
