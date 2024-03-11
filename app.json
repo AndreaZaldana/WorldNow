@@ -2,7 +2,7 @@
   "expo": {
     "name": "WorldNow",
     "slug": "WorldNow",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -15,16 +15,25 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.adevz.worldnow"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.adevz.WorldNow"
     },
+
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e2e345a-73ba-4dff-a6f8-6fbdab1d791f"
+      }
     }
   }
 }
