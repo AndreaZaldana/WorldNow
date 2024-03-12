@@ -58,7 +58,7 @@ Screenshots:
 
 7. **Try the app!**
 
-    Remember to install Expo Go on your mobile device or you can try it on a simulator.
+    Remember to install Expo Go on your mobile device or you can try it on a emulator.
 
 
 
