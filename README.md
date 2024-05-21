@@ -1,3 +1,6 @@
+<img src='https://github.com/AndreaZaldana/WorldNow/blob/master/assets/icon.png' width='300'>
+
+# WORLDNOW
 A pretty weather app where you can check weather stats from thousands of cities around the world. It includes a simple compass and a Moon section to consult information about the natural satellite. You can choose between english or spanish as your default languages. Weather Icons by https://www.figma.com/community/file/1007362387750930023
 
 Developed using Expo.
